@@ -1,4 +1,6 @@
-.App {
+#root{background: url('https://www.indovina.com.ar/wp-content/uploads/2019/09/pattern_wite_bg-02.jpg') repeat left top fixed;}
+
+.App {background: url('https://www.indovina.com.ar/wp-content/uploads/2019/09/pattern_wite_bg-02.jpg') repeat left top fixed;
   text-align: center;
 }
 
@@ -12,7 +14,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
